@@ -4,6 +4,10 @@
  * @license https://craftcms.github.io/license/
  */
 
+ /*
+Updated by pxel
+ */
+
 namespace mediabeastnz\abandonedcart;
 
 use mediabeastnz\abandonedcart\models\Settings;
